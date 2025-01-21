@@ -1,0 +1,13 @@
+101,siam,20,male
+
+102,arjo,45,male
+
+103,ishra,20,female
+
+110,alax,40,male
+
+105,jon doe,50,male
+
+115,jjj,50,male
+
+220,fatema,40,female
